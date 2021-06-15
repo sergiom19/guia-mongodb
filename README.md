@@ -1,4 +1,4 @@
-# ❓ ¿Qué es Mongoose?
+## ❓ ¿Qué es Mongoose?
 > Mongoose es un NPM basado en modelos para la base de datos MongoDB.
 > En esta introducción te enseñaré como usarlo, al final te parecerá fácil :D.
 
