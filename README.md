@@ -23,8 +23,8 @@ En la sección 2, pega la URL que te da la ventana, reemplaza `<dbname>` por alg
 y `<password>` por la contraseña que previamente creaste.
 
 ### 👨‍💻 Creando nuestro proyecto
->Ahora crea una app node.js y simplemente escribe estas dos líneas:
-y también instala mongoose
+>Ahora crea una app node.js e instalamos mongoose y simplemente escribe estas dos líneas:
+
 ```js
 const mongoose = require('mongoose')
 
