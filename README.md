@@ -4,7 +4,7 @@
 
 ## ❓ ¿Qué es MongoDB?
 > Es una base de datos NoSQL creada en 2009 en Estados Unidos.
-> Es considerada una de las bases de datos más modernas, ya que guarda sus datos en documentos JSON, los cuales son muy flexibles.
+> Es considerada una de las bases de datos más modernas, ya que guarda sus datos en documentos BSON, los cuales son muy flexibles.
 
 ### 📦 Empezando
 > Vamos a crear un Atlas. Para crear un atlas, haz click [aquí](https://mongodb.com/cloud/atlas).
@@ -95,7 +95,7 @@ else if (data){
 > ¿Pero qué pasa si quiero actualizar en vez de crear más documentos?
 Yo te explico.
 ```js
-await modelo.findOneAndUpdate({
+await modelo.updateOne({
     Nombre: 'Sergio',
     Edad: 25
 })
