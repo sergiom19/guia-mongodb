@@ -104,10 +104,6 @@ await modelo.updateOne({
 
 ## 👤 Guia realizada por Sergio.
  Si esta guía te ha ayudado hazmelo saber. Y me alegro que te haya ayudado.
-  
-> Discord: twenifive#1111 `(131420591533195264)`
-
-> [Discord Server](https://discord.gg/MMHprUXcXu)
 
 > Si me pudieras apoyar dando una estrella al documento te lo agradecería. ⭐ 
 
